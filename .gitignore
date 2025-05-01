@@ -37,3 +37,4 @@ wheels/
 
 # cursor関連
 .cursorindexingignore
+mail/
