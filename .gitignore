@@ -1,1 +1,39 @@
 **.pyc
+# 一時ファイル
+*.tmp
+*.temp
+*.swp
+*~
+
+# OSX関連
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python関連
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# specstory関連
+.specstory/
+
+# cursor関連
+.cursorindexingignore
